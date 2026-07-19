@@ -3,7 +3,8 @@
 
 🎓 B.E. Computer Science Engineering Student
 
-💻 Aspiring Full Stack Developer
+🚀 Computer Science Engineering Student
+Passionate about Backend Development, Data Analytics, and solving real-world problems through technology.
 
 ---
 
