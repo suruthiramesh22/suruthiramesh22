@@ -39,3 +39,10 @@
 ## 📫 Connect with Me
 
 GitHub: https://github.com/suruthiramesh22
+## 📊 GitHub Stats
+
+![Suruthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suruthiramesh22&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suruthiramesh22&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=suruthiramesh22&theme=tokyonight)
