@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Suruthi R
 
-<!--
-**suruthiramesh22/suruthiramesh22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Aspiring Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning Java, DSA, SQL, React
+- 💻 Interested in Full Stack Development
+- 🎯 Solving LeetCode problems every day
+- 📍 Coimbatore, India
+
+---
+
+## 🛠 Skills
+
+- Java
+- HTML
+- CSS
+- JavaScript
+- React
+- SQL
+- Git
+- GitHub
+
+---
+
+## 📂 Projects
+
+- 📌 EventEase
+- 📌 Smart Campus Navigation
+- 📌 Portfolio Website
+- 📌 Bank Management System
+
+---
+
+## 📫 Connect with Me
+
+GitHub: https://github.com/suruthiramesh22
