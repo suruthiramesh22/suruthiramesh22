@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Suruthi%20R&fontSize=50&fontColor=ffffff)
 # 👋 Hi, I'm Suruthi R
 
 🎓 B.E. Computer Science Engineering Student
