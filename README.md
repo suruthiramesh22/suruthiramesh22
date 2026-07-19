@@ -36,12 +36,6 @@ Passionate about Full Stack Development, Problem Solving, and building real-worl
 
 &nbsp;&nbsp;&nbsp;
 
-</p>
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/Suruthi22?theme=dark&font=Karma&ext=heatmap"/>
-</p>
-
-
 ---
 
 ## 💻 Tech Stack
@@ -89,11 +83,11 @@ Passionate about Full Stack Development, Problem Solving, and building real-worl
 
 ## 🏆 LeetCode Stats
 
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma"/>
-
 </p>
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Suruthi22?theme=dark&font=Karma&ext=heatmap"/>
+</p>
+
 
 ---
 
