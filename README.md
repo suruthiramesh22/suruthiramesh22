@@ -124,5 +124,5 @@ Passionate about Full Stack Development, Problem Solving, and building real-worl
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff416c,100:ff4b2b&height=120&section=footer"/>
 </p>
