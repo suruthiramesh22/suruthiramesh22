@@ -1,16 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Suruthi%20R&fontSize=50&fontColor=ffffff)
-# 👋 Hi, I'm Suruthi R
+#                                                👋 Hi, I'm Suruthi R
 
-🎓 B.E. Computer Science Engineering Student
+                                         🎓 B.E. Computer Science Engineering Student
 
-🚀 Computer Science Engineering Student
-Passionate about Backend Development, Data Analytics, and solving real-world problems through technology.
+                                         🚀 Computer Science Engineering Student
+                  Passionate about Backend Development, Data Analytics, and solving real-world problems through technology.
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning Java, DSA, SQL, React
+- 🌱 Currently learning Java, DSA, SQL.
 - 💻 Interested in Full Stack Development
 - 🎯 Solving LeetCode problems every day
 - 📍 Coimbatore, India
@@ -22,8 +22,6 @@ Passionate about Backend Development, Data Analytics, and solving real-world pro
 - Java
 - HTML
 - CSS
-- JavaScript
-- React
 - SQL
 - Git
 - GitHub
@@ -33,7 +31,6 @@ Passionate about Backend Development, Data Analytics, and solving real-world pro
 ## 📂 Projects
 
 - 📌 EventEase
-- 📌 Smart Campus Navigation
 - 📌 Portfolio Website
 - 📌 Bank Management System
 
