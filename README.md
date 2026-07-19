@@ -120,7 +120,7 @@ Passionate about Full Stack Development, Problem Solving, and building real-worl
 <h2 align="center">⭐ Thanks for Visiting My Profile ⭐</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00FFB2&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!;Java Developer!+🚀;Spring Boot Learner!+📚; LeetCode Problem Solver!+😊;"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00FFB2&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!;Happy+Coding!+🚀;Keep+Learning!+📚;See+You+Again!+😊"/>
 </p>
 
 <p align="center">
