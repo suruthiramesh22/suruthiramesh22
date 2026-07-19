@@ -30,23 +30,17 @@ Passionate about Full Stack Development, Problem Solving, and building real-worl
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/suruthi-radhakrishna-86ba99315/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="mailto:mithranramesh080@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" height="50"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/suruthiramesh22">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
 </p>
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Suruthi22?theme=dark&font=Karma&ext=heatmap"/>
+</p>
+
 
 ---
 
@@ -141,14 +135,12 @@ Passionate about Full Stack Development, Problem Solving, and building real-worl
 
 ---
 
-<h2 align="center">⭐ Thanks for Visiting My Profile! ⭐</h2>
+<h2 align="center">⭐ Thanks for Visiting My Profile ⭐</h2>
 
 <p align="center">
-<b>Let's Connect, Learn, and Grow Together! 🚀</b>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00FFB2&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!;Happy+Coding!+🚀;Keep+Learning!+📚;See+You+Again!+😊"/>
 </p>
 
----
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=140&section=footer"/>
 </p>
