@@ -1,91 +1,62 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Suruthi%20R&fontSize=50&fontColor=ffffff)
-# 👋 Hi, I'm Suruthi R
-
-🚀 **Computer Science Engineering Student | Aspiring Full Stack Developer**
-
-Passionate about Full Stack Development, Problem Solving, and building real-world applications through technology. I enjoy learning new technologies, solving coding challenges, and creating projects that improve my technical skills.
+👋 Hi, I'm Suruthi R
+🚀 Computer Science Engineering Student
+Passionate about Backend Development, Data Analytics, and solving real-world problems through technology.
 
 ---
 
 # 👩‍💻 About Me
-
-🎓 Pursuing **B.E. Computer Science and Engineering (3rd Year)**
-
-🌱 Currently learning **Spring Boot, React, SQL, and Data Structures & Algorithms**
-
-💡 Interested in **Full Stack Development** and **Software Engineering**
-
-🏆 Solved **80+ LeetCode Problems**
-
-📚 Always learning new technologies and improving my coding skills
-
-📊 Passionate about **Power BI** and **Data Visualization**
-
-🎯 Preparing for **Software Developer Placements**
-
-📍 Coimbatore, Tamil Nadu, India
-
+🎓 Pursuing B.E. Computer Science and Engineering
+🌱 Currently learning Spring Boot, SQL, Power BI, and Data Analytics
+💡 Interested in Backend Development and Data Analytics
+🏆 Regular LeetCode Problem Solver
+📚 Always learning new technologies
 📫 **Email:** mithranramesh080@gmail.com
 
 ---
 
 # 🌐 Connect With Me
 
-💻 GitHub: https://github.com/suruthiramesh22
+## 🌐 Connect With Me
 
-💼 LinkedIn: *(Add your LinkedIn profile link)*
+<p align="center">
+<a href="https://www.linkedin.com/in/suruthi-radhakrishna-86ba99315/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-🌐 Portfolio: *(Add your Portfolio Website link)*
+<a href="mailto:mithranramesh080@gmail.com">
+<img src="https://img.icons8.com/fluency/48/gmail-new.png" width="48"/>
+</a>
+</p>
 
 ---
 
 # 💻 Tech Stack
 
-### Programming Languages
-- ☕ Java
-- 🌐 HTML5
-- 🎨 CSS3
-- ⚡ JavaScript
-- 🗄️ SQL
+## 💻 Tech Stack
 
-### Frameworks & Technologies
-- 🌱 Spring Boot
-- ⚛️ React
-- 🔗 REST APIs
-- 🗃️ MySQL
+<p align="center">
 
-### Tools
-- Git
-- GitHub
-- Power BI
-- VS Code
-- IntelliJ IDEA
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,js,react,vscode"/>
 
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</p>
 ---
 
-# 🚀 Featured Projects
 
-### 🍽️ MessMate – Food Billing Web Application
-A billing application designed for mess owners, tea shops, and small food businesses to simplify daily billing operations.
+🏆 LeetCode Stats
+## 🏆 LeetCode Stats
 
-**Tech Stack:** HTML, CSS, JavaScript
+<p align="center">
 
----
+<img src="https://leetcard.jacoblin.cool/Suruthi22?theme=dark&font=Karma"/>
 
-### 📊 Netflix Dashboard – Power BI
-Built an interactive Power BI dashboard to analyze Netflix content trends across genres and regions.
-
-**Tech Stack:** Power BI, Microsoft Excel
-
----
-
-### 🌐 Personal Portfolio Website
-Designed and developed a responsive portfolio website showcasing my skills, projects, and achievements.
-
----
-
-### 💻 LeetCode Solutions Repository
-Maintaining a repository containing **80+ Java solutions** for Data Structures and Algorithms.
+</p>
 
 ---
 
@@ -103,19 +74,6 @@ Maintaining a repository containing **80+ Java solutions** for Data Structures a
 
 ---
 
-# 📈 Current Focus
-
-🚀 Mastering Spring Boot
-
-📚 Solving LeetCode Problems Daily
-
-💻 Building Full Stack Projects
-
-☁️ Learning Backend Development
-
-🎯 Preparing for Product-Based Company Placements
-
----
 
 # 💡 Professional Quote
 
@@ -123,35 +81,15 @@ Maintaining a repository containing **80+ Java solutions** for Data Structures a
 
 ---
 
-# ⭐ Why This Profile?
 
-I believe that strong software development skills are built through continuous learning, hands-on projects, and consistent coding practice. My GitHub reflects my journey as I explore new technologies, solve coding problems, and build applications that strengthen my development skills.
+<h2 align="center">⭐ Thanks for Visiting My Profile! ⭐</h2>
 
----
+<p align="center">
+  <b>Let's Connect, Learn, and Grow Together! 🚀</b>
+</p>
 
-# 🎯 My Goals
-
-✔ Become a Skilled Full Stack Developer
-
-✔ Crack a Product-Based Company Placement
-
-✔ Contribute to Open Source Projects
-
-✔ Build Real-World Applications
-
-✔ Keep Learning Every Day
-
----
-
-# ❤️ Thanks for Visiting My Profile!
-
-⭐ If you like my projects, don't forget to **Star** my repositories.
-
-### Happy Coding! 🚀
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suruthiramesh22&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suruthiramesh22&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=120&section=footer"/>
+</p>s
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=suruthiramesh22&theme=tokyonight)
